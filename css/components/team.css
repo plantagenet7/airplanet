@@ -1,0 +1,44 @@
+.team__list {
+    padding-bottom: 66px;
+    margin-left: -35px;
+    font-size: 0;
+}
+
+.team__text {
+    color: #221f1f;
+    font-size: 49px;
+    font-weight: 700;
+    line-height: 38px;
+}
+
+.team__nameSurname {
+    color: #221f1f;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.team__memberPosition {
+    color: #1c5bc3;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.team__memberDescription {
+    color: #221f1f;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.team__item {
+    width: 270px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 35px;
+    vertical-align: top;
+    margin-bottom: 30px;
+}
+
+
+/*.team__picture {
+    height: 160px;
+}*/
